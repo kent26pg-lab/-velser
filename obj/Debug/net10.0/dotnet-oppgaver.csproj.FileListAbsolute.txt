@@ -1,0 +1,14 @@
+C:\Users\Kodehode\Documents\dotnet-oppgaver\obj\Debug\net10.0\dotnet-oppgaver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kodehode\Documents\dotnet-oppgaver\obj\Debug\net10.0\dotnet-oppgaver.AssemblyInfoInputs.cache
+C:\Users\Kodehode\Documents\dotnet-oppgaver\obj\Debug\net10.0\dotnet-oppgaver.AssemblyInfo.cs
+C:\Users\Kodehode\Documents\dotnet-oppgaver\obj\Debug\net10.0\dotnet-oppgaver.csproj.CoreCompileInputs.cache
+C:\Users\Kodehode\Documents\dotnet-oppgaver\bin\Debug\net10.0\dotnet-oppgaver.exe
+C:\Users\Kodehode\Documents\dotnet-oppgaver\bin\Debug\net10.0\dotnet-oppgaver.deps.json
+C:\Users\Kodehode\Documents\dotnet-oppgaver\bin\Debug\net10.0\dotnet-oppgaver.runtimeconfig.json
+C:\Users\Kodehode\Documents\dotnet-oppgaver\bin\Debug\net10.0\dotnet-oppgaver.dll
+C:\Users\Kodehode\Documents\dotnet-oppgaver\bin\Debug\net10.0\dotnet-oppgaver.pdb
+C:\Users\Kodehode\Documents\dotnet-oppgaver\obj\Debug\net10.0\dotnet-oppgaver.dll
+C:\Users\Kodehode\Documents\dotnet-oppgaver\obj\Debug\net10.0\refint\dotnet-oppgaver.dll
+C:\Users\Kodehode\Documents\dotnet-oppgaver\obj\Debug\net10.0\dotnet-oppgaver.pdb
+C:\Users\Kodehode\Documents\dotnet-oppgaver\obj\Debug\net10.0\dotnet-oppgaver.genruntimeconfig.cache
+C:\Users\Kodehode\Documents\dotnet-oppgaver\obj\Debug\net10.0\ref\dotnet-oppgaver.dll
