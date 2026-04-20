@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dotnet-oppgaver")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb6c3615431f01d9202217bd3dc081fe52ed9d58")]
 [assembly: System.Reflection.AssemblyProductAttribute("dotnet-oppgaver")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dotnet-oppgaver")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
