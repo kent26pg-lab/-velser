@@ -1,13 +1,19 @@
-﻿
-// get user input
-int n = int.Parse(Console.ReadLine());
+﻿int n = int.Parse(Console.ReadLine());
 
-for (int i = 0; i < n; i++)
+for (int y = 0; y < n; y++)
 {
-    for (int j = 0; j < i + 1; j++)
-    {
-        Console.Write("*");
-    }
-    Console.WriteLine("");
-}
+    int space_count = n - y - 1;
+    int dot_count = y + 1;
 
+    for (int x = 0; x < space_count; x++)
+    {
+        Console.Write(" ");
+    }
+
+    for (int x = 0; x < dot_count; x++)
+    {
+        Console.Write("#");
+    }
+
+    Console.WriteLine();
+}
