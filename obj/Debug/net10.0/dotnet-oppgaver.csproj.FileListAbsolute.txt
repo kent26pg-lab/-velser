@@ -12,3 +12,4 @@ C:\Users\Kodehode\Documents\dotnet-oppgaver\obj\Debug\net10.0\refint\dotnet-oppg
 C:\Users\Kodehode\Documents\dotnet-oppgaver\obj\Debug\net10.0\dotnet-oppgaver.pdb
 C:\Users\Kodehode\Documents\dotnet-oppgaver\obj\Debug\net10.0\dotnet-oppgaver.genruntimeconfig.cache
 C:\Users\Kodehode\Documents\dotnet-oppgaver\obj\Debug\net10.0\ref\dotnet-oppgaver.dll
+C:\Users\Kodehode\Documents\dotnet-oppgaver\obj\Debug\net10.0\dotnet-oppgaver.sourcelink.json

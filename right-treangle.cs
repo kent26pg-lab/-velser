@@ -1,19 +1,8 @@
-﻿int n = int.Parse(Console.ReadLine());
+﻿Console.WriteLine("Enter total bill amount:");
+double total = double.Parse(Console.ReadLine());
 
-for (int y = 0; y < n; y++)
-{
-    int space_count = n - y - 1;
-    int dot_count = y + 1;
+Console.WriteLine("Enter number of people:");
+int people = int.Parse(Console.ReadLine());
 
-    for (int x = 0; x < space_count; x++)
-    {
-        Console.Write(" ");
-    }
-
-    for (int x = 0; x < dot_count; x++)
-    {
-        Console.Write("#");
-    }
-
-    Console.WriteLine();
-}
+double finalAmount = (total) / people;
+Console.WriteLine("Each person owes: kr " + finalAmount);
